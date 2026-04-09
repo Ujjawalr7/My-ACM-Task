@@ -1,16 +1,16 @@
 # 📝 Daily Task Tracker
 
 ## 📌 Project Description
-This is a simple web application that helps users manage their daily tasks efficiently. Users can add, complete, and delete tasks easily.
+The Daily Task Tracker is a simple and user-friendly web application that helps users manage their daily tasks efficiently. Users can add, complete, and delete tasks with ease.
 
 ## 🚀 Features
 - ➕ Add new tasks
 - ✔️ Mark tasks as completed
 - ❌ Delete tasks
-- 🎨 Completed tasks are styled differently
-- 🔢 Maximum 15 tasks allowed
+- 🎨 Completed tasks are visually distinguished
+- 🔢 Maximum limit of 15 tasks
 - ⚠️ Prevents adding empty tasks
-- 💾 Data persists using localStorage
+- 💾 Data persistence using localStorage
 
 ## 🛠️ Technologies Used
 - HTML
@@ -19,18 +19,26 @@ This is a simple web application that helps users manage their daily tasks effic
 
 ## 💡 How It Works
 - Tasks are stored in the browser using localStorage
-- When the page is refreshed, tasks remain saved
-- Users can interact with tasks using buttons
+- Data remains saved even after refreshing the page
+- Users can manage tasks interactively using buttons
 
 ## ▶️ How to Run the Project
 1. Download or clone the repository
 2. Open `index.html` in any web browser
 
 ## 📷 Output
-- Displays list of tasks
-- Allows user to manage tasks interactively
+- Displays a list of tasks
+- Allows users to add, complete, and delete tasks
 
 ## 🔗 Live Demo
-(Add your GitHub Pages link here after deployment)
+[Click here to view project](https://Ujjawalr7.github.io/task-tracker/)
 
 ## 📁 Project Structure
+task-tracker/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── README.md
+
+## 👨‍💻 Author
+Ujjawal Kumar singh
