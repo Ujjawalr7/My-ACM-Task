@@ -4,13 +4,13 @@
 The Daily Task Tracker is a simple and user-friendly web application that helps users manage their daily tasks efficiently. Users can add, complete, and delete tasks with ease.
 
 ## 🚀 Features
-- ➕ Add new tasks
-- ✔️ Mark tasks as completed
-- ❌ Delete tasks
-- 🎨 Completed tasks are visually distinguished
-- 🔢 Maximum limit of 15 tasks
-- ⚠️ Prevents adding empty tasks
-- 💾 Data persistence using localStorage
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Completed tasks are visually distinguished
+- Maximum limit of 15 tasks
+- Prevents adding empty tasks
+- Data persistence using localStorage
 
 ## 🛠️ Technologies Used
 - HTML
